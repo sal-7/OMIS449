@@ -1,0 +1,10 @@
+C:\Users\sal\Desktop\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe.config
+C:\Users\sal\Desktop\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe
+C:\Users\sal\Desktop\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.pdb
+C:\Users\sal\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csprojAssemblyReference.cache
+C:\Users\sal\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.Form1.resources
+C:\Users\sal\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.Properties.Resources.resources
+C:\Users\sal\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csproj.GenerateResource.cache
+C:\Users\sal\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csproj.CoreCompileInputs.cache
+C:\Users\sal\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.exe
+C:\Users\sal\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.pdb

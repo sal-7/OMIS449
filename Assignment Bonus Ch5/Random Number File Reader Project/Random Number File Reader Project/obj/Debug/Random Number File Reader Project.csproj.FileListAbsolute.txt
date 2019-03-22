@@ -1,0 +1,20 @@
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project-2\Random Number File Reader Project\bin\Debug\Random Number File Reader Project.exe.config
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project-2\Random Number File Reader Project\bin\Debug\Random Number File Reader Project.exe
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project-2\Random Number File Reader Project\bin\Debug\Random Number File Reader Project.pdb
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project-2\Random Number File Reader Project\obj\Debug\Random Number File Reader Project.csprojAssemblyReference.cache
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project-2\Random Number File Reader Project\obj\Debug\Random_Number_File_Reader_Project.Form1.resources
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project-2\Random Number File Reader Project\obj\Debug\Random_Number_File_Reader_Project.Properties.Resources.resources
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project-2\Random Number File Reader Project\obj\Debug\Random Number File Reader Project.csproj.GenerateResource.cache
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project-2\Random Number File Reader Project\obj\Debug\Random Number File Reader Project.csproj.CoreCompileInputs.cache
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project-2\Random Number File Reader Project\obj\Debug\Random Number File Reader Project.exe
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project-2\Random Number File Reader Project\obj\Debug\Random Number File Reader Project.pdb
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project\Random Number File Reader Project\bin\Debug\Random Number File Reader Project.exe.config
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project\Random Number File Reader Project\bin\Debug\Random Number File Reader Project.exe
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project\Random Number File Reader Project\bin\Debug\Random Number File Reader Project.pdb
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project\Random Number File Reader Project\obj\Debug\Random Number File Reader Project.csprojAssemblyReference.cache
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project\Random Number File Reader Project\obj\Debug\Random_Number_File_Reader_Project.Form1.resources
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project\Random Number File Reader Project\obj\Debug\Random_Number_File_Reader_Project.Properties.Resources.resources
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project\Random Number File Reader Project\obj\Debug\Random Number File Reader Project.csproj.GenerateResource.cache
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project\Random Number File Reader Project\obj\Debug\Random Number File Reader Project.csproj.CoreCompileInputs.cache
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project\Random Number File Reader Project\obj\Debug\Random Number File Reader Project.exe
+C:\Users\sal\Desktop\499 EC\Random Number File Reader Project\Random Number File Reader Project\obj\Debug\Random Number File Reader Project.pdb

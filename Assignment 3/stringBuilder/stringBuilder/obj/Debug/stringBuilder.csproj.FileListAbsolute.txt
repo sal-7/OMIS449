@@ -1,0 +1,10 @@
+C:\Users\sal\Desktop\stringBuilder\stringBuilder\bin\Debug\stringBuilder.exe.config
+C:\Users\sal\Desktop\stringBuilder\stringBuilder\bin\Debug\stringBuilder.exe
+C:\Users\sal\Desktop\stringBuilder\stringBuilder\bin\Debug\stringBuilder.pdb
+C:\Users\sal\Desktop\stringBuilder\stringBuilder\obj\Debug\stringBuilder.csprojAssemblyReference.cache
+C:\Users\sal\Desktop\stringBuilder\stringBuilder\obj\Debug\stringBuilder.StringBuilder.resources
+C:\Users\sal\Desktop\stringBuilder\stringBuilder\obj\Debug\stringBuilder.Properties.Resources.resources
+C:\Users\sal\Desktop\stringBuilder\stringBuilder\obj\Debug\stringBuilder.csproj.GenerateResource.cache
+C:\Users\sal\Desktop\stringBuilder\stringBuilder\obj\Debug\stringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\sal\Desktop\stringBuilder\stringBuilder\obj\Debug\stringBuilder.exe
+C:\Users\sal\Desktop\stringBuilder\stringBuilder\obj\Debug\stringBuilder.pdb
