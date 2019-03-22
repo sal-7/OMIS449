@@ -1,0 +1,10 @@
+C:\Users\sal\Desktop\449\Distance Calculator Project\Distance Calculator Project\bin\Debug\Distance Calculator Project.exe.config
+C:\Users\sal\Desktop\449\Distance Calculator Project\Distance Calculator Project\bin\Debug\Distance Calculator Project.exe
+C:\Users\sal\Desktop\449\Distance Calculator Project\Distance Calculator Project\bin\Debug\Distance Calculator Project.pdb
+C:\Users\sal\Desktop\449\Distance Calculator Project\Distance Calculator Project\obj\Debug\Distance Calculator Project.csprojAssemblyReference.cache
+C:\Users\sal\Desktop\449\Distance Calculator Project\Distance Calculator Project\obj\Debug\Distance_Calculator_Project.Form1.resources
+C:\Users\sal\Desktop\449\Distance Calculator Project\Distance Calculator Project\obj\Debug\Distance_Calculator_Project.Properties.Resources.resources
+C:\Users\sal\Desktop\449\Distance Calculator Project\Distance Calculator Project\obj\Debug\Distance Calculator Project.csproj.GenerateResource.cache
+C:\Users\sal\Desktop\449\Distance Calculator Project\Distance Calculator Project\obj\Debug\Distance Calculator Project.csproj.CoreCompileInputs.cache
+C:\Users\sal\Desktop\449\Distance Calculator Project\Distance Calculator Project\obj\Debug\Distance Calculator Project.exe
+C:\Users\sal\Desktop\449\Distance Calculator Project\Distance Calculator Project\obj\Debug\Distance Calculator Project.pdb
