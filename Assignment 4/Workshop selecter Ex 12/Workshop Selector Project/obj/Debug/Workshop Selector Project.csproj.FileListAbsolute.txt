@@ -1,0 +1,28 @@
+C:\Users\sdhol\source\repos\Workshop Selector Project\Workshop Selector Project\bin\Debug\Workshop Selector Project.exe.config
+C:\Users\sdhol\source\repos\Workshop Selector Project\Workshop Selector Project\bin\Debug\Workshop Selector Project.exe
+C:\Users\sdhol\source\repos\Workshop Selector Project\Workshop Selector Project\bin\Debug\Workshop Selector Project.pdb
+C:\Users\sdhol\source\repos\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop_Selector_Project.Form1.resources
+C:\Users\sdhol\source\repos\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop_Selector_Project.Properties.Resources.resources
+C:\Users\sdhol\source\repos\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.csproj.GenerateResource.cache
+C:\Users\sdhol\source\repos\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.csproj.CoreCompileInputs.cache
+C:\Users\sdhol\source\repos\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.exe
+C:\Users\sdhol\source\repos\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.pdb
+C:\Users\sdhol\source\repos\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.csprojAssemblyReference.cache
+C:\Users\sdhol\Downloads\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\bin\Debug\Workshop Selector Project.exe.config
+C:\Users\sdhol\Downloads\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.exe
+C:\Users\sdhol\Downloads\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.pdb
+C:\Users\sdhol\Downloads\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\bin\Debug\Workshop Selector Project.exe
+C:\Users\sdhol\Downloads\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\bin\Debug\Workshop Selector Project.pdb
+C:\Users\sdhol\Downloads\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop_Selector_Project.Form1.resources
+C:\Users\sdhol\Downloads\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop_Selector_Project.Properties.Resources.resources
+C:\Users\sdhol\Downloads\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.csproj.GenerateResource.Cache
+C:\Users\sal\Desktop\٤٤\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\bin\Debug\Workshop Selector Project.exe.config
+C:\Users\sal\Desktop\٤٤\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\bin\Debug\Workshop Selector Project.exe
+C:\Users\sal\Desktop\٤٤\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\bin\Debug\Workshop Selector Project.pdb
+C:\Users\sal\Desktop\٤٤\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.csprojAssemblyReference.cache
+C:\Users\sal\Desktop\٤٤\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop_Selector_Project.Form1.resources
+C:\Users\sal\Desktop\٤٤\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop_Selector_Project.Properties.Resources.resources
+C:\Users\sal\Desktop\٤٤\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.csproj.GenerateResource.cache
+C:\Users\sal\Desktop\٤٤\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.csproj.CoreCompileInputs.cache
+C:\Users\sal\Desktop\٤٤\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.exe
+C:\Users\sal\Desktop\٤٤\Workshop Selector Project\Workshop Selector Project\Workshop Selector Project\obj\Debug\Workshop Selector Project.pdb

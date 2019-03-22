@@ -1,0 +1,20 @@
+C:\Users\sdhol\Downloads\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\bin\Debug\Addition Tutor Project.exe.config
+C:\Users\sdhol\Downloads\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition_Tutor_Project.Form1.resources
+C:\Users\sdhol\Downloads\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition_Tutor_Project.Properties.Resources.resources
+C:\Users\sdhol\Downloads\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition Tutor Project.csproj.GenerateResource.Cache
+C:\Users\sdhol\Downloads\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\bin\Debug\Addition Tutor Project.exe
+C:\Users\sdhol\Downloads\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\bin\Debug\Addition Tutor Project.pdb
+C:\Users\sdhol\Downloads\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition Tutor Project.exe
+C:\Users\sdhol\Downloads\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition Tutor Project.pdb
+C:\Users\sdhol\Downloads\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition Tutor Project.csprojAssemblyReference.cache
+C:\Users\sdhol\Downloads\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition Tutor Project.csproj.CoreCompileInputs.cache
+C:\Users\sal\Desktop\449\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\bin\Debug\Addition Tutor Project.exe.config
+C:\Users\sal\Desktop\449\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\bin\Debug\Addition Tutor Project.exe
+C:\Users\sal\Desktop\449\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\bin\Debug\Addition Tutor Project.pdb
+C:\Users\sal\Desktop\449\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition Tutor Project.csprojAssemblyReference.cache
+C:\Users\sal\Desktop\449\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition_Tutor_Project.Form1.resources
+C:\Users\sal\Desktop\449\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition_Tutor_Project.Properties.Resources.resources
+C:\Users\sal\Desktop\449\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition Tutor Project.csproj.GenerateResource.cache
+C:\Users\sal\Desktop\449\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition Tutor Project.csproj.CoreCompileInputs.cache
+C:\Users\sal\Desktop\449\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition Tutor Project.exe
+C:\Users\sal\Desktop\449\Addition Tutor Project\Addition Tutor Project\Addition Tutor Project\obj\Debug\Addition Tutor Project.pdb

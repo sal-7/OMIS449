@@ -1,0 +1,30 @@
+C:\Users\sdhol\source\repos\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\bin\Debug\Cals from Fat and Carbs Project.exe.config
+C:\Users\sdhol\source\repos\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\bin\Debug\Cals from Fat and Carbs Project.exe
+C:\Users\sdhol\source\repos\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\bin\Debug\Cals from Fat and Carbs Project.pdb
+C:\Users\sdhol\source\repos\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.csprojAssemblyReference.cache
+C:\Users\sdhol\source\repos\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals_from_Fat_and_Carbs_Project.Form1.resources
+C:\Users\sdhol\source\repos\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals_from_Fat_and_Carbs_Project.Properties.Resources.resources
+C:\Users\sdhol\source\repos\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.csproj.GenerateResource.cache
+C:\Users\sdhol\source\repos\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.csproj.CoreCompileInputs.cache
+C:\Users\sdhol\source\repos\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.exe
+C:\Users\sdhol\source\repos\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.pdb
+\\vmware-host\Shared Folders\Desktop 2\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\bin\Debug\Cals from Fat and Carbs Project.exe.config
+\\vmware-host\Shared Folders\Desktop 2\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\bin\Debug\Cals from Fat and Carbs Project.exe
+\\vmware-host\Shared Folders\Desktop 2\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\bin\Debug\Cals from Fat and Carbs Project.pdb
+\\vmware-host\Shared Folders\Desktop 2\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop 2\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals_from_Fat_and_Carbs_Project.Form1.resources
+\\vmware-host\Shared Folders\Desktop 2\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals_from_Fat_and_Carbs_Project.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop 2\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop 2\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop 2\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.exe
+\\vmware-host\Shared Folders\Desktop 2\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.pdb
+C:\Users\sal\Desktop\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\bin\Debug\Cals from Fat and Carbs Project.exe.config
+C:\Users\sal\Desktop\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\bin\Debug\Cals from Fat and Carbs Project.exe
+C:\Users\sal\Desktop\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\bin\Debug\Cals from Fat and Carbs Project.pdb
+C:\Users\sal\Desktop\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.csprojAssemblyReference.cache
+C:\Users\sal\Desktop\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals_from_Fat_and_Carbs_Project.Form1.resources
+C:\Users\sal\Desktop\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals_from_Fat_and_Carbs_Project.Properties.Resources.resources
+C:\Users\sal\Desktop\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.csproj.GenerateResource.cache
+C:\Users\sal\Desktop\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.csproj.CoreCompileInputs.cache
+C:\Users\sal\Desktop\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.exe
+C:\Users\sal\Desktop\Archive\Cals from Fat and Carbs Project\Cals from Fat and Carbs Project\obj\Debug\Cals from Fat and Carbs Project.pdb

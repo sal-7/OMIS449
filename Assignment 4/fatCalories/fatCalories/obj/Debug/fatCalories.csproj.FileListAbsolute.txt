@@ -1,0 +1,10 @@
+C:\Users\sal\Desktop\fatCalories-2\fatCalories\bin\Debug\fatCalories.exe.config
+C:\Users\sal\Desktop\fatCalories-2\fatCalories\bin\Debug\fatCalories.exe
+C:\Users\sal\Desktop\fatCalories-2\fatCalories\bin\Debug\fatCalories.pdb
+C:\Users\sal\Desktop\fatCalories-2\fatCalories\obj\Debug\fatCalories.csprojAssemblyReference.cache
+C:\Users\sal\Desktop\fatCalories-2\fatCalories\obj\Debug\fatCalories.Form1.resources
+C:\Users\sal\Desktop\fatCalories-2\fatCalories\obj\Debug\fatCalories.Properties.Resources.resources
+C:\Users\sal\Desktop\fatCalories-2\fatCalories\obj\Debug\fatCalories.csproj.GenerateResource.cache
+C:\Users\sal\Desktop\fatCalories-2\fatCalories\obj\Debug\fatCalories.csproj.CoreCompileInputs.cache
+C:\Users\sal\Desktop\fatCalories-2\fatCalories\obj\Debug\fatCalories.exe
+C:\Users\sal\Desktop\fatCalories-2\fatCalories\obj\Debug\fatCalories.pdb
