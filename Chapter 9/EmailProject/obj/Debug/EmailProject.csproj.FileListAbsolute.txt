@@ -1,0 +1,11 @@
+\\Mac\Home\Downloads\EmailProject\EmailProject\bin\Debug\EmailProject.exe.config
+\\Mac\Home\Downloads\EmailProject\EmailProject\bin\Debug\EmailProject.exe
+\\Mac\Home\Downloads\EmailProject\EmailProject\bin\Debug\EmailProject.pdb
+\\Mac\Home\Downloads\EmailProject\EmailProject\obj\Debug\EmailProject.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\EmailProject\EmailProject\obj\Debug\EmailProject.Form1.resources
+\\Mac\Home\Downloads\EmailProject\EmailProject\obj\Debug\EmailProject.MoreDetails.resources
+\\Mac\Home\Downloads\EmailProject\EmailProject\obj\Debug\EmailProject.Properties.Resources.resources
+\\Mac\Home\Downloads\EmailProject\EmailProject\obj\Debug\EmailProject.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\EmailProject\EmailProject\obj\Debug\EmailProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\EmailProject\EmailProject\obj\Debug\EmailProject.exe
+\\Mac\Home\Downloads\EmailProject\EmailProject\obj\Debug\EmailProject.pdb
